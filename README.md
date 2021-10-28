@@ -1,4 +1,4 @@
-# JS-JSON
+# JS-JSON - Conversão de Resultado para formatação em JSON
 <p align="left">
 
   <a href="https://www.linkedin.com/in/vitor-dietrich-69a3a8194/" alt="Linkedin">
