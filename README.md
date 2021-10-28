@@ -35,8 +35,6 @@ This repository is converting results from JS to Json, being displayed in the co
 
 [B & C](https://github.com/VitorDietrich-Coder/JS-JSON/tree/main/B%20e%20C)
 
-<hr>
-
 [D](https://github.com/VitorDietrich-Coder/JS-JSON/tree/main/D)
 
 [E](https://github.com/VitorDietrich-Coder/Exercicio-JAVA-1/blob/main/Exercicio4.java)
