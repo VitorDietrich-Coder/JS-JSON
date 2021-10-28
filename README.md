@@ -16,7 +16,7 @@ First steps with java
 <p align="left">
   🦄 Language: <strong> 
   
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
   
   </strong>
 </p>
@@ -24,14 +24,12 @@ First steps with java
 <p align="left">
   💼 IDE/Tools: <strong>
   
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
   </strong>
 </p>
 
-This repository is my first steps with Java, it contain:
-
-<h2>If a number is:</h2>
+This repository is converting results from JS to Json, being displayed in the console:
 
 [A](https://github.com/VitorDietrich-Coder/JS-JSON/tree/main/A)
 
